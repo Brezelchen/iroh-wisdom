@@ -1,7 +1,12 @@
-.background{
-    background-image: url(../assets/background8-Photoroom.png);
-    width: 100vw;
-    height: 100vh;
-    background-size: cover;
-    background-repeat: no-repeat;
+.background {
+  background-image: url(../assets/background8-Photoroom.png);
+  min-height: 100vh;
+  width: 100vw;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
 }
