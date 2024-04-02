@@ -15,8 +15,6 @@ export class QuoteComponent implements OnInit {
 
   public getRandomQuote(): void {
     const index: number = Math.floor(Math.random() * (quotes.length));
-    console.log("index",index);
-    
     this.quote = quotes[index];
   }
 }
