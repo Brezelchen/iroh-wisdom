@@ -2,4 +2,4 @@
 
 Welcome! Let uncle Iroh share his wisdom with you.
 
-![screenshot](image.png)
+![screenshot](/src/assets/screenshot.png)
