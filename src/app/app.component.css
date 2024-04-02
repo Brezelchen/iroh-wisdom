@@ -1,7 +1,16 @@
 .background{
     background-image: url(../assets/background8-Photoroom.png);
-    width: 100vw;
     height: 100vh;
+    width: 100vw;
     background-size: cover;
     background-repeat: no-repeat;
+    display: flex;
+}
+
+.quote-container{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    margin-left: 5em;
+    margin-right: 5em;
 }
