@@ -1,16 +1,12 @@
-.background{
-    background-image: url(../assets/background8-Photoroom.png);
-    height: 100vh;
-    width: 100vw;
-    background-size: cover;
-    background-repeat: no-repeat;
-    display: flex;
-}
-
-.quote-container{
-    width: 100%;
-    margin: auto;
-    display: flex;
-    margin-left: 5em;
-    margin-right: 5em;
+.background {
+  background-image: url(../assets/background8-Photoroom.png);
+  min-height: 100vh;
+  width: 100vw;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
 }

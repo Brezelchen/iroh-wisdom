@@ -1,6 +1,5 @@
 export const quotes: string[] = [
   '"It’s time for you to look inward and start asking yourself the big question: who are you and what do you want?"',
-  '"Be careful what you wish for, Admiral. History is not always kind to its subjects."',
   '"Are you so busy fighting you cannot see your own ship has set sail?"',
   '"It is important to draw wisdom from different places. If you take it from only one place it becomes rigid and stale."',
   '"Sometimes life is like this dark tunnel, you can’t always see the light at the end of the tunnel, but if you just keep moving, you will come to a better place."',
@@ -8,9 +7,7 @@ export const quotes: string[] = [
   '"There is nothing wrong with letting people who love you, help you. Not that I love you. I just met you."',
   '"I know you’re not supposed to cry over spilled tea, but it’s just so sad!"',
   '"Sometimes, the best way to solve your own problems is to help someone else."',
-  '"Good times become good memories, but bad times make good lessons."',
   '"In the darkest times, Hope is something that you give yourself. That is the meaning of inner strength."',
-  '"Life happens wherever you are, whether you make it or not."',
   '"Pride is not the opposite of shame, but its source. True humility is the only antidote to shame."',
   '"You must never give into dispair. Allow yourself to slip down that road and you surrender to your lowest instincts."',
   '"You sound like my nephew. Always thinking you need to do things on your own without anyone\'s support."',

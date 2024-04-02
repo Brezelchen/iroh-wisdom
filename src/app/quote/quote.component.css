@@ -1,13 +1,18 @@
 .quote-container {
+  position: relative;
   width: 50%;
   margin: auto;
-  padding: 5em;
+  padding-bottom: 4em;
+  padding-top: 1em;
   color: #fafafa;
-  font-family: "Quicksand", "Times New Roman", Times, sans-serif;
+  font-family: "Quicksand", Times, sans-serif;
   text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 .quote-box {
+  position: relative;
   margin: auto;
   font-size: 2em;
   display: flex;
@@ -25,6 +30,7 @@
 .top-border {
   margin-bottom: 2em;
 }
+
 .bottom-border {
   margin-top: 2em;
 }
@@ -34,7 +40,30 @@
   width: 100%;
 }
 
-.iroh{
-    margin-top: 1em; 
-    font-style: italic
+.iroh {
+  margin-top: 1em;
+  font-style: italic;
+}
+
+.shuffle-button {
+  display: flex;
+  position: absolute;
+  bottom: 0;
+  height: 2.2em;
+  width: 2.2em;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 1em;
+}
+
+.shuffle-icon {
+  margin: auto;
+  width: 2em;
+  height: 2em;
+  transition: all 0.1s;
+}
+
+.shuffle-icon:hover {
+  width: 2.2em;
+  height: 2.2em;
 }
